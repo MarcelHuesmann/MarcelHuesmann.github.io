@@ -1,12 +1,15 @@
-
-.container {background-color:#A1A1A1; 
+.container {
+  background-color: #A1A1A1;
 }
-
-body{ background-image: url("b1.jpg");
+body {
+  background-image: url("b1.jpg");
 }
-.img-circle {img 
-   padding:1px;
-   border:1px solid #021a40;
-   background-color:#3385FF;
+.img-circle {
+  img
+  padding: 1px;
+  border: 1px solid #021a40;
+  background-color: #3385FF;
 }
-h3 { font-family: 'Roboto Condensed', sans-serif;}
+h3 {
+  font-family: 'Roboto Condensed', sans-serif;
+}
